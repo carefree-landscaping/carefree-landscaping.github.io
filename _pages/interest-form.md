@@ -15,6 +15,9 @@ title: Tell us how we can help
 Let us know how we can help you.
 
 <form action="https://submit-form.com/iV8qSMvgF">
+  <div style="display: flex; align-items: center; gap: 5px;"><label for="name">Your Name:</label><input type="textbox" id="name" name="name" /></div>
+  <div style="display: flex; align-items: center; gap: 5px;"><label for="phone">Phone number:</label><input type="textbox" id="phone" name="phone" /></div>
+  <div style="display: flex; align-items: center; gap: 5px;"><label for="email">Email address:</label><input type="textbox" id="email" name="email" /></div>
   <div style="display: flex; align-items: center; gap: 5px;"><input type="checkbox" id="holiday-lights" name="holiday-lights" /><label for="holiday-lights">Holiday Lights</label></div>
   <div style="display: flex; align-items: center; gap: 5px;"><input type="checkbox" id="holiday-decorations" name="holiday-decorations" /><label for="holiday-decorations">Holiday Lawn Decoration Setup</label></div>
   <div style="display: flex; align-items: center; gap: 5px;"><input type="checkbox" id="mulching" name="mulching" /><label for="mulching">Mulching</label></div>
