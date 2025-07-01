@@ -6,6 +6,10 @@ main:
     url: /interest/
   - title: "About"
     url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Contact Us"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
