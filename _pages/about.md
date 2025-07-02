@@ -6,9 +6,9 @@ title: About
 author_profile: false
 classes: wide
 header:
-  overlay_image: /assets/images/splash.jpg
-  overlay_color: "#5e616c"
-  overlay_filter: rgba(0, 255, 81, 0.5)
+  overlay_image: /assets/images/gallery/pergola.jpeg
+  overlay_color: "#808080"
+  overlay_filter: rgba(128, 128, 128, 0.5)
 title: About us
 ---
 Welcome to Carefree Landscaping. Building on five years of trusted service in sprinkler system care, we now offer year-round landscaping solutions, including lawn mowing, pruning, snow removal, holiday lighting, and more.

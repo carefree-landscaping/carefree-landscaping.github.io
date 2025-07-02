@@ -44,6 +44,7 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
+$kefa: "Kefa", serif !default;
 
 /* Monospace - modern font stack */
 $monospace-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
@@ -52,7 +53,7 @@ $monospace-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consol
 $handwritten: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
 
 /* Defaults used in Minimal mistakes */
-$default-sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$default-sans-serif: "Kefa", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $default-serif: Georgia, Times, serif;
 $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 
