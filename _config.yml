@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Carefree Landscaping"
 title_separator          : "-"
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : "Carefree Landscaping" # site tagline that appears below site title in masthead
 name                     : "David Mitchell"
 description              : "Carefree Landscaping is a full-service landscaping company dedicated to providing top-notch lawn care and maintenance services. Our team of experts is committed to transforming your outdoor space into a beautiful and functional area that you can enjoy year-round. Whether you need regular lawn mowing, seasonal clean-ups, or complete landscape design and installation, we have the skills and experience to meet your needs. Let us take care of your lawn so you can focus on what matters most to you."
 url                      : "https://www.carefreelandscaping.pro" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
