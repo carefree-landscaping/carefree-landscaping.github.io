@@ -19,15 +19,15 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Carefree Landscaping"
 title_separator          : "-"
-subtitle                 : "We care about your lawn so you don't have to." # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "David Mitchell"
 description              : "Carefree Landscaping is a full-service landscaping company dedicated to providing top-notch lawn care and maintenance services. Our team of experts is committed to transforming your outdoor space into a beautiful and functional area that you can enjoy year-round. Whether you need regular lawn mowing, seasonal clean-ups, or complete landscape design and installation, we have the skills and experience to meet your needs. Let us take care of your lawn so you can focus on what matters most to you."
 url                      : "https://www.carefreelandscaping.pro" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "carefree-landscaping/carefree-landscaping.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)

@@ -4,6 +4,8 @@ author_profile: false
 classes: wide
 header:
   overlay_image: /assets/images/splash.jpg
+  overlay_color: "#5e616c"
+  overlay_filter: rgba(0, 255, 81, 0.5)
   actions:
     - label: "<i class='fa fa-envelope'></i> Schedule Your Appointment Now"
       url: "/contact"
@@ -12,6 +14,25 @@ excerpt: "We care about your lawn so you don't have to."
 intro: 
   - excerpt: 'Never worry about your lawn again.'
 feature_row1:
+  - image_path: /assets/images/gallery/mower.jpg
+    alt: "Mowing"
+    title: "Mowing"
+  - image_path: /assets/images/gallery/bed-after.jpg
+    alt: "planting"
+    title: "Planting"
+  - image_path: /assets/images/gallery/tree-after.jpg
+    alt: "Yard Cleanup"
+    title: "Yard Cleanup"
+---
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row1" %}
+
+<!--
+feature_row1:
+  - image_path: /assets/images/gallery/holiday-lights.jpg
+    alt: "Holiday Lighting"
+    title: "Holiday Lighting"
   - image_path: /assets/images/splash.jpg
     alt: "placeholder image 1"
     title: "Landscape Lighting"
@@ -34,20 +55,8 @@ feature_row2:
   - image_path: /assets/images/splash.jpg
     alt: "placeholder image 1"
     title: "Holiday Lighting"
-feature_row3:
-  - image_path: /assets/images/splash.jpg
-    alt: "placeholder image 1"
-    title: "Pruning"
-  - image_path: /assets/images/gallery/bed-after.jpg
-    alt: "planting"
-    title: "Planting"
   - image_path: /assets/images/gallery/tree-after.jpg
-    alt: "placeholder image 1"
+    alt: "Yard Cleanup"
     title: "Yard Cleanup"
     url: "/yard-cleanup/"
----
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row1" %}
-{% include feature_row id="feature_row2" %}
-{% include feature_row id="feature_row3" %}
+-->
