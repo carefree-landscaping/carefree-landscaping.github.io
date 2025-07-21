@@ -8,6 +8,8 @@ main:
     url: /about/
 #  - title: "Services"
 #    url: /services/
+  - title: "Customer Portal"
+    url: https://portal.golmn.com/login/SjlqbXqxBkbp3uOjVF0gJA
   - title: "Contact Us"
     url: /contact/
   # - title: "Sample Posts"
