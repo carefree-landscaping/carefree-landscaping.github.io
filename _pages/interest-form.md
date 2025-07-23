@@ -14,7 +14,7 @@ title: Tell us how we can help
 
 What services are you most interested in or need help with?
 
-<form action="https://submit-form.com/iV8qSMvgF">
+<form action="https://submit-form.com/iV8qSMvgF" method="POST">
     <div style="display: flex; align-items: center; gap: 5px;"><label for="name" style="white-space:nowrap">Name*:</label><input type="textbox" id="name" name="name" size="50" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="phone" style="white-space:nowrap">Phone number*:</label><input type="textbox" id="phone" name="phone" size="50" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="email" style="white-space:nowrap">Email address*:</label><input type="textbox" id="email" name="email" size="50" required/></div>
@@ -39,5 +39,7 @@ What services are you most interested in or need help with?
     <div style="display: flex; align-items: center; gap: 5px;"><input type="checkbox" id="holiday-lights" name="holiday-lights" /><label for="holiday-lights">Holiday Lights</label></div>
     <h2>Other Information</h2>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="message">Any other details you need to provide us:</label><input type="textarea" rows="3" id="message" name="message" /></div>
+    <br/>
+    <div class="g-recaptcha" data-sitekey="6LesBo0rAAAAABfJVbVS8nHc6J-hsQ2MAsaG_M9q"></div>
   <button type="submit">Submit</button>
 </form>
