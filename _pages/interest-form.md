@@ -18,6 +18,9 @@ What services are you most interested in or need help with?
     <div style="display: flex; align-items: center; gap: 5px;"><label for="name" style="white-space:nowrap">Name*:</label><input type="textbox" id="name" name="name" size="50" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="phone" style="white-space:nowrap">Phone number*:</label><input type="textbox" id="phone" name="phone" size="50" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="email" style="white-space:nowrap">Email address*:</label><input type="textbox" id="email" name="email" size="50" required/></div>
+    <div style="display: flex; align-items: center; gap: 5px;"><label for="email" style="white-space:nowrap">Street address*:</label><input type="textbox" id="email" name="email" size="50" required/></div>
+    <div style="display: flex; align-items: center; gap: 5px;"><label for="email" style="white-space:nowrap">City*:</label><input type="textbox" id="email" name="email" size="40" required/></div>
+    <div style="display: flex; align-items: center; gap: 5px;"><label for="email" style="white-space:nowrap">Postal code*:</label><input type="textbox" id="email" name="email" size="20" required/></div>
     <h2>☔️ Spring Services</h2>
     <div style="display: flex; align-items: center; gap: 5px;"><input type="checkbox" id="planting" name="planting" /><label for="planting">Planting Flowers</label></div>
     <div style="display: flex; align-items: center; gap: 5px;"><input type="checkbox" id="mulching" name="mulching" /><label for="mulching">Mulching</label></div>
