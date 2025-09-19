@@ -21,7 +21,7 @@ What services are you most interested in or need help with?
     <div style="display: flex; align-items: center; gap: 5px;"><label for="phone" style="white-space:nowrap">Phone number*:</label><input type="textbox" id="phone" name="phone" size="50" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="email" style="white-space:nowrap">Email address*:</label><input type="textbox" id="email" name="email" size="50" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="street_line1" style="white-space:nowrap">Address Line 1*:</label><input type="textbox" id="street_line1" name="street_line1" size="50" required/></div>
-    <div style="display: flex; align-items: center; gap: 5px;"><label for="street_line2" style="white-space:nowrap">Address Line 2*:</label><input type="textbox" id="street_line2" name="street_line2" size="50" required/></div>
+    <div style="display: flex; align-items: center; gap: 5px;"><label for="street_line2" style="white-space:nowrap">Address Line 2:</label><input type="textbox" id="street_line2" name="street_line2" size="50"/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="city" style="white-space:nowrap">City*:</label><input type="textbox" id="city" name="city" size="40" required/></div>
     <div style="display: flex; align-items: center; gap: 5px;"><label for="postal" style="white-space:nowrap">Postal code*:</label><input type="textbox" id="postal" name="postal" size="20" required/></div>
     <h2>☔️ Spring Services</h2>
